@@ -7,4 +7,4 @@ resources:
 
 images:
   - name: coitlearning/coit-frontend
-    newTag: v30
+    newTag: v22.18.38
